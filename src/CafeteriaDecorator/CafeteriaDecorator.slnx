@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CafeteriaDecorator.Console/CafeteriaDecorator.Console.csproj" />
+  <Project Path="CafeteriaDecorator.Tests/CafeteriaDecorator.Tests.csproj" />
+</Solution>
