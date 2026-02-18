@@ -18,4 +18,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\CafeteriaDecorator.Console\CafeteriaDecorator.Console.csproj" />
+    </ItemGroup>
+
 </Project>
